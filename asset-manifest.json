@@ -1,0 +1,37 @@
+{
+  "files": {
+    "static/js/0.d8a35d9d.chunk.js": "/IoanBarbaros/react-app/static/js/0.d8a35d9d.chunk.js",
+    "static/js/0.d8a35d9d.chunk.js.map": "/IoanBarbaros/react-app/static/js/0.d8a35d9d.chunk.js.map",
+    "main.js": "/IoanBarbaros/react-app/static/js/main.f24d65f3.chunk.js",
+    "main.js.map": "/IoanBarbaros/react-app/static/js/main.f24d65f3.chunk.js.map",
+    "runtime-main.js": "/IoanBarbaros/react-app/static/js/runtime-main.af31d76a.js",
+    "runtime-main.js.map": "/IoanBarbaros/react-app/static/js/runtime-main.af31d76a.js.map",
+    "static/css/3.4dca5ddc.chunk.css": "/IoanBarbaros/react-app/static/css/3.4dca5ddc.chunk.css",
+    "static/js/3.dba1da75.chunk.js": "/IoanBarbaros/react-app/static/js/3.dba1da75.chunk.js",
+    "static/js/3.dba1da75.chunk.js.map": "/IoanBarbaros/react-app/static/js/3.dba1da75.chunk.js.map",
+    "static/js/4.b882f607.chunk.js": "/IoanBarbaros/react-app/static/js/4.b882f607.chunk.js",
+    "static/js/4.b882f607.chunk.js.map": "/IoanBarbaros/react-app/static/js/4.b882f607.chunk.js.map",
+    "static/js/5.03916a38.chunk.js": "/IoanBarbaros/react-app/static/js/5.03916a38.chunk.js",
+    "static/js/5.03916a38.chunk.js.map": "/IoanBarbaros/react-app/static/js/5.03916a38.chunk.js.map",
+    "static/js/6.dff68d6a.chunk.js": "/IoanBarbaros/react-app/static/js/6.dff68d6a.chunk.js",
+    "static/js/6.dff68d6a.chunk.js.map": "/IoanBarbaros/react-app/static/js/6.dff68d6a.chunk.js.map",
+    "static/js/7.e424f8ac.chunk.js": "/IoanBarbaros/react-app/static/js/7.e424f8ac.chunk.js",
+    "static/js/7.e424f8ac.chunk.js.map": "/IoanBarbaros/react-app/static/js/7.e424f8ac.chunk.js.map",
+    "static/js/8.5e08330a.chunk.js": "/IoanBarbaros/react-app/static/js/8.5e08330a.chunk.js",
+    "static/js/8.5e08330a.chunk.js.map": "/IoanBarbaros/react-app/static/js/8.5e08330a.chunk.js.map",
+    "static/js/9.bf92e651.chunk.js": "/IoanBarbaros/react-app/static/js/9.bf92e651.chunk.js",
+    "static/js/9.bf92e651.chunk.js.map": "/IoanBarbaros/react-app/static/js/9.bf92e651.chunk.js.map",
+    "static/js/10.def1b7e5.chunk.js": "/IoanBarbaros/react-app/static/js/10.def1b7e5.chunk.js",
+    "static/js/10.def1b7e5.chunk.js.map": "/IoanBarbaros/react-app/static/js/10.def1b7e5.chunk.js.map",
+    "index.html": "/IoanBarbaros/react-app/index.html",
+    "static/css/3.4dca5ddc.chunk.css.map": "/IoanBarbaros/react-app/static/css/3.4dca5ddc.chunk.css.map",
+    "static/js/3.dba1da75.chunk.js.LICENSE.txt": "/IoanBarbaros/react-app/static/js/3.dba1da75.chunk.js.LICENSE.txt",
+    "static/js/4.b882f607.chunk.js.LICENSE.txt": "/IoanBarbaros/react-app/static/js/4.b882f607.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.af31d76a.js",
+    "static/css/3.4dca5ddc.chunk.css",
+    "static/js/3.dba1da75.chunk.js",
+    "static/js/main.f24d65f3.chunk.js"
+  ]
+}
