@@ -9,13 +9,14 @@ interface MiddleBlockProps {
   content: string;
   button: string;
   t: any;
+  id: string;
 }
 
-const MiddleBlock = ({ title, content, button, t }: MiddleBlockProps) => {
+const MiddleBlock = ({ title, content, button, t, id }: MiddleBlockProps) => {
   const history = useHistory();
   const handleClick = () => history.push('/about');
   return (
-    <MiddleBlockSection>
+    <MiddleBlockSection id={id}>
       <Slide direction="up">
         <Row justify="center" align="middle">
           <ContentWrapper>
@@ -23,7 +24,7 @@ const MiddleBlock = ({ title, content, button, t }: MiddleBlockProps) => {
               <h6>{t(title)}</h6>
               <Content>{t(content)}</Content>
               {button && (
-                <Button name="submit"  onClick={handleClick}>
+                <Button  onClick={handleClick}>
                   {t(button)}
                 </Button>
               )}

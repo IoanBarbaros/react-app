@@ -3,15 +3,15 @@ import LanguageDetector from "i18next-browser-languagedetector";
 import XHR from "i18next-xhr-backend";
 
 import translationEn from "./locales/en/translation.json";
-import translationEs from "./locales/es/translation.json";
+import translationRo from "./locales/ro/translation.json";
 
 i18n
   .use(XHR)
   .use(LanguageDetector)
   .init({
     debug: false,
-    lng: "en",
-    fallbackLng: "en",
+    lng: "ro",
+    fallbackLng: "ro",
 
     keySeparator: false,
     interpolation: {
@@ -22,8 +22,8 @@ i18n
       en: {
         translations: translationEn,
       },
-      es: {
-        translations: translationEs,
+      ro: {
+        translations: translationRo,
       },
     },
     ns: ["translations"],

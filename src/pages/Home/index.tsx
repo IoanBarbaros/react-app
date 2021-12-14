@@ -1,10 +1,9 @@
 import { lazy } from "react";
-import IntroContent from "../../content/IntroContent.json";
-import MiddleBlockContent from "../../content/MiddleBlockContent.json";
+import MotivationContent from "../../content/MotivationContent.json";
 import AboutContent from "../../content/AboutContent.json";
 import MissionContent from "../../content/MissionContent.json";
-import ProductContent from "../../content/ProductContent.json";
 import ContactContent from "../../content/ContactContent.json";
+import ProductContent from "../../content/ProductContent.json";               
 
 const Contact = lazy(() => import("../../components/ContactForm"));
 const MiddleBlock = lazy(() => import("../../components/MiddleBlock"));
@@ -18,37 +17,32 @@ const Home = () => {
       <ScrollToTop />
       <ContentBlock
         type="right"
-        title={IntroContent.title}
-        content={IntroContent.text}
-        button={IntroContent.button}
+        title={MissionContent.title}
+        content={MissionContent.text}
+        button={MissionContent.button}
         icon="market.svg"
         id="mission"
       />
       <MiddleBlock
-        title={MiddleBlockContent.title}
-        content={MiddleBlockContent.text}
-        button={MiddleBlockContent.button}
+        title={MotivationContent.title}
+        content={MotivationContent.text}
+        button={MotivationContent.button}
+        id="motivation"
       />
       <ContentBlock
         type="left"
         title={AboutContent.title}
         content={AboutContent.text}
         section={AboutContent.section}
-        icon="graphs.svg"
+        icon="increase.svg"
         id="about"
       />
       <ContentBlock
         type="right"
-        title={MissionContent.title}
-        content={MissionContent.text}
-        icon="product-launch.svg"
-        id="mission2"
-      />
-      <ContentBlock
-        type="left"
         title={ProductContent.title}
         content={ProductContent.text}
-        icon="waving.svg"
+        button={ProductContent.button}
+        icon="mobile.svg"
         id="product"
       />
       <Contact

@@ -1,15 +1,15 @@
 {
-  "title": "Light, fast & responsive",
-  "text": "This template is ready to use, so you don't need to change anything at a component level, unless you want to customize the default styling.",
+  "title": "Physical store vs online one",
+  "text": "After the pandemic lockdown, a lot of stores closes theirs activities and a lot of farmers couldn't sell their vegetable. The popularity of online stores has exploded but still is hard to learn to use it.",
   "section": [
     {
-      "title": "Why Antd?",
-      "content": "Ant Design is a React UI library that has a lot of easy-to-use components for building elegant UI.",
+      "title": "Why an online store?",
+      "content": "After the pandemic, a lot of online store will still be popular because of the ease of making shopping.",
       "icon": "notes.svg"
     },
     {
-      "title": "Why styled-components?",
-      "content": "Styled Components gives you total control over your components.",
+      "title": "Why an online grocery store?",
+      "content": "Because is a easy way for farmers to sell their goods in safe condition.",
       "icon": "notes.svg"
     }
   ]
